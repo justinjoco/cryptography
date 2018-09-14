@@ -1,4 +1,4 @@
-# cryptography
+# Cryptography
 
 My implementations of different cryptographic algorithms.
 
@@ -11,7 +11,7 @@ Requires BitVector module
 pip install BitVector
 ```
 
-##Notes
+## Notes
 *All implementations can be run in Python 2.7, as these are what these are assignments were based on. Unfortunately, only AES and RSA so far can be run in Python 3+.
 
 ## Acknowledgments
