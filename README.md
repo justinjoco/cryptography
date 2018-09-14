@@ -16,5 +16,5 @@ pip install BitVector
 
 ## Acknowledgments
 
-* Thank you to Avi Kak from Purdue University for creating the BitVector module and provided some foundational functions that helped with the implementation of these algorithms.
+* Thank you to Avi Kak from Purdue University for creating the BitVector module and providing some foundational functions that helped with the implementation of these algorithms.
 
