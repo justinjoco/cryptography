@@ -12,7 +12,7 @@ pip install BitVector
 ```
 
 ## Notes
-*All implementations can be run in Python 2.7, as these are what these are assignments were based on. Unfortunately, only AES and RSA so far can be run in Python 3+.
+* All implementations can be run in Python 2.7, as this was what these assignments were designed to run on. Unfortunately, only AES and RSA so far can be run in Python 3+.
 
 ## Acknowledgments
 
